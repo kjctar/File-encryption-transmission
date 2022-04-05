@@ -1,5 +1,5 @@
 # -
-### 基于openssl+qt写的小工具
+### 基于openssl+qt写的局域网内文件加密传输小工具
 ## 接收界面
 ![图片](https://user-images.githubusercontent.com/32445559/161778850-ca713de0-01ae-4523-a19c-1f07d912213a.png)
 ## 发送界面
